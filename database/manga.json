@@ -1,28 +1,5 @@
 [
-  {
-    "manga_id": "academy-s-genius-swordmaster",
-    "title": "Academy s Genius Swordmaster",
-    "alternative_title": "",
-    "status": "Ongoing",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "genres": [
-      "Lainnya"
-    ],
-    "type": "Comic",
-    "release_year": 2026,
-    "rating": 0,
-    "synopsis": "Sinopsis belum tersedia.",
-    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "chapter_title": "Full Chapter",
-        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Academy_s%20Genius%20Swordmaster.cbz",
-        "path": "Academy_s Genius Swordmaster.cbz"
-      }
-    ]
-  },
+ 
   {
     "manga_id": "a-cadet-becomes-a-prophet",
     "title": "A Cadet Becomes a Prophet",
