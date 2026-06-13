@@ -1,40 +1,194 @@
-{
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Bloodthirsty Sword, The Dragon Slayer's Return",
-  "status": "Ongoing",
-  "author": "Yoo Sang-jin",
-  "artist": "STUDIO INUS",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Martial Arts",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Martial arts master 'Kang Jin-ho' sacrificed his life to slay the strongest dragon. Just when he thought everything was over, he regressed back in time. Now, armed with his past memories and unparalleled skills, he begins his journey to rewrite history.",
-  "cover_url": "https://example.com/assets/covers/dragonslayer-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Fall of the Dragon",
-      "pages": [
-        "https://example.com/assets/dragonslayer/ch1/001.jpg",
-        "https://example.com/assets/dragonslayer/ch1/002.jpg",
-        "https://example.com/assets/dragonslayer/ch1/003.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "A New Beginning",
-      "pages": [
-        "https://example.com/assets/dragonslayer/ch2/001.jpg",
-        "https://example.com/assets/dragonslayer/ch2/002.jpg",
-        "https://example.com/assets/dragonslayer/ch2/003.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "academy-s-genius-swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Lainnya"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Academy_s%20Genius%20Swordmaster.cbz",
+        "path": "Academy_s Genius Swordmaster.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "a-cadet-becomes-a-prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Action"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+        "path": "Action/A Cadet Becomes a Prophet.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "academy-s-genius-swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Action"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Action/Academy_s%20Genius%20Swordmaster.cbz",
+        "path": "Action/Academy_s Genius Swordmaster.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "children-of-the-rune",
+    "title": "Children of the Rune",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Action"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Action/Children%20of%20the%20Rune.cbz",
+        "path": "Action/Children of the Rune.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "i-obtained-a-mythic-item",
+    "title": "I Obtained a Mythic Item",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Fantasy/I%20Obtained%20a%20Mythic%20Item.cbz",
+        "path": "Fantasy/I Obtained a Mythic Item.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "steel-eating-player",
+    "title": "Steel Eating Player",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Steel-Eating%20Player.cbz",
+        "path": "Romance/Steel-Eating Player.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "sword-of-the-undying",
+    "title": "Sword of the Undying",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Sword%20of%20the%20Undying.cbz",
+        "path": "Romance/Sword of the Undying.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "talent-swallowing-magician",
+    "title": "Talent Swallowing Magician",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"300\"><rect fill=\"%231a1a1a\" width=\"200\" height=\"300\"/><text x=\"50%\" y=\"50%\" font-family=\"sans-serif\" font-size=\"14\" fill=\"%23c9a96e\" text-anchor=\"middle\" dominant-baseline=\"middle\">No Cover</text></svg>",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Talent-Swallowing%20Magician.cbz",
+        "path": "Romance/Talent-Swallowing Magician.cbz"
+      }
+    ]
+  }
+]
