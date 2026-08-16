@@ -94,5 +94,77 @@
         "path": "Fantasy/I Obtained a Mythic Item.cbz"
       }
     ]
+  },
+  {
+    "manga_id": "steel-eating-player",
+    "title": "Steel Eating Player",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIj48cmVjdCBmaWxsPSIjMWExYTFhIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjMwMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2M5YTk2ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSI+Tm8gQ292ZXI8L3RleHQ+PC9zdmc+",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Steel-Eating%20Player.cbz",
+        "path": "Romance/Steel-Eating Player.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "sword-of-the-undying",
+    "title": "Sword of the Undying",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIj48cmVjdCBmaWxsPSIjMWExYTFhIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjMwMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2M5YTk2ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSI+Tm8gQ292ZXI8L3RleHQ+PC9zdmc+",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Sword%20of%20the%20Undying.cbz",
+        "path": "Romance/Sword of the Undying.cbz"
+      }
+    ]
+  },
+  {
+    "manga_id": "talent-swallowing-magician",
+    "title": "Talent Swallowing Magician",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Sinopsis belum tersedia.",
+    "cover_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIj48cmVjdCBmaWxsPSIjMWExYTFhIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjMwMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2M5YTk2ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSI+Tm8gQ292ZXI8L3RleHQ+PC9zdmc+",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Full Chapter",
+        "download_url": "https://raw.githubusercontent.com/HackenWijaya/ComicApp/main/Romance/Talent-Swallowing%20Magician.cbz",
+        "path": "Romance/Talent-Swallowing Magician.cbz"
+      }
+    ]
   }
 ]
